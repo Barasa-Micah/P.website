@@ -109,5 +109,11 @@ body{
     font-size: 16px;
 }
 .hero-text h1{
-    
+    color: blue;   
+}
+.hero-text{
+    color: whitesmoke;
+}
+.btn-group{
+    margin: 45px 0;
 }
