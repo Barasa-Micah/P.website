@@ -129,17 +129,19 @@ body{
 }
 .social{
     border-color: dodgerblue;
+    transition: 0.5s;
 }
 
 @media(max-width:900px){
     nav .togglebtn{
         display: initial;
     }
+    .click{
+        top: 45px;
+    }
     .click span{
         position: absolute;
         margin-top: 12px;
     }
-}
-.click span:first-child{
-    transform: rotate(-45deg);
+        
 }
