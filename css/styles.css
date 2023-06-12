@@ -89,3 +89,6 @@ body{
     border-radius: 100%;
     overflow: hidden;
 }
+.image img{
+    transition: 0.5s;
+}
