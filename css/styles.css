@@ -92,3 +92,8 @@ body{
 .image img{
     transition: 0.5s;
 }
+.hero-text{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
