@@ -127,11 +127,17 @@ body{
     margin-right: 7px;
     border: 2px solid #e5e5e5;
 }
-.social{
-    border-color: dodgerblue;
+.her-text .social i{
+    color: white;
+    font-size: 18px;
+    margin-right: 10px;
     transition: 0.5s;
 }
 
+.hero-text .social:hover{
+    color: blue;
+    transform: rotate(360deg);
+}
 @media(max-width:900px){
     nav .togglebtn{
         display: initial;
