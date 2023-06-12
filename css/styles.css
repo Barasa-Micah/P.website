@@ -130,3 +130,5 @@ body{
 .social{
     border-color: dodgerblue;
 }
+
+@media(max-width:900px)
