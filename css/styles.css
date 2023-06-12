@@ -97,3 +97,6 @@ body{
     display: flex;
     flex-direction: column;
 }
+.image img:hover{
+    transform: scale(1,2);
+}
