@@ -106,5 +106,8 @@ body{
 }
 .hero-text h4 span{
     color: blue;
+    font-size: 16px;
+}
+.hero-text h1{
     
 }
