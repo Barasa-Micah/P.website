@@ -83,7 +83,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 4 rem;
+    padding-top: 80px;
 }
 .container .image{
     border-radius: 50%;
