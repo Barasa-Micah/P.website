@@ -131,4 +131,8 @@ body{
     border-color: dodgerblue;
 }
 
-@media(max-width:900px)
+@media(max-width:900px){
+    nav .togglebtn{
+        display: initial;
+    }
+}
