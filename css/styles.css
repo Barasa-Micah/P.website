@@ -19,5 +19,5 @@ ul li a:hover{
 }*/
 .Home{
     align-items: center;
-    justify-content:center;
+    justify-content:space-between;
 }
