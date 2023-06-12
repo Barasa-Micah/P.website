@@ -1,7 +1,23 @@
-.logo{
-    position: relative;
-    font-size: 30px;
+ul{
+    display: flex;
+    float: right;
+    list-style: none;
+    gap: 30px;
+}
+ul li a{
     text-decoration: none;
-    font-weight: 200;
-    color: bisque;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+ul li a:hover{
+    color: aqua;
+}
+/*.Home{
+    align-items: center;
+    justify-content: center;
+}*/
+.Home{
+    align-items: center;
+    justify-content:center;
 }
