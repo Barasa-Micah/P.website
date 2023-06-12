@@ -135,4 +135,11 @@ body{
     nav .togglebtn{
         display: initial;
     }
+    .click span{
+        position: absolute;
+        margin-top: 12px;
+    }
+}
+.click span:first-child{
+    transform: rotate(-45deg);
 }
